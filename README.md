@@ -1,5 +1,5 @@
 # Final-Project-P4DS
-Programming 4 Data science course final project
+Programming for Data science course final project
 
 | MSSV     | Họ tên          | 
 |----------|-----------------|
