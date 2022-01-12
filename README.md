@@ -4,7 +4,7 @@ Programming for Data science course final project
 | MSSV     | Họ tên          | 
 |----------|-----------------|
 | 19127404 | Phan Trung Hiếu |
-| 19127637 | Trương Chí Toàn | 
+| 19127587 | Trương Chí Toàn | 
 
 # Tập dữ liệu:
 
