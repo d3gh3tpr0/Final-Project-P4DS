@@ -1,10 +1,10 @@
 # Final-Project-P4DS
 Programming for Data science course final project
 
-| MSSV     | Họ tên          | 
-|----------|-----------------|
-| 19127404 | Phan Trung Hiếu |
-| 19127587 | Trương Chí Toàn | 
+| MSSV     | Họ tên          | Github                     |
+|----------|-----------------|----------------------------|
+| 19127404 | Phan Trung Hiếu |https://github.com/d3gh3tpr0|
+| 19127587 | Trương Chí Toàn |https://github.com/tctoan   |
 
 # Tập dữ liệu:
 
